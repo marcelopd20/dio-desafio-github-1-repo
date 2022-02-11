@@ -1,5 +1,5 @@
-# Repositório do Desafio Git da DIO
-## Projeto - Desafio Git - Bootcamp DIO
+# Desafio de projeto do Git/GitHub da DIO
+## Projeto - Primeiro Desafio - Bootcamp DIO
 
 ### Links Úteis:
-[Sintaxe Basica MarkDown](markdownguide.org)
+[Sintaxe Basica MarkDown](http://markdownguide.org/basic-syntax)
