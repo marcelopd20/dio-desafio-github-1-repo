@@ -16,10 +16,10 @@ public class Order {
 
     public void printItems() {
         int i = 0;
-        while (i < items.length) {
+
+        do {
             System.out.println(items[i]);
-            i++;
-        }
+        } while (i < items.length);
     }
 }
 
