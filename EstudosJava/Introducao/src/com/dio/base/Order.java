@@ -15,11 +15,9 @@ public class Order {
         //metodo para calcular taxas
 
     public void printItems() {
-        int i = 0;
-
-        do {
+        for (int i = 0; i < items.length; i++) {
             System.out.println(items[i]);
-        } while (i < items.length);
+        }
     }
 }
 
