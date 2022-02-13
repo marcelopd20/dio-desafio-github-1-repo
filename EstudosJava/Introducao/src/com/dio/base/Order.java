@@ -15,8 +15,8 @@ public class Order {
         //metodo para calcular taxas
 
     public void printItems() {
-        for (int i = 0; i < items.length; i++) {
-            System.out.println(items[i]);
+        for (String i : items) {
+            System.out.println(i);
         }
     }
 }
