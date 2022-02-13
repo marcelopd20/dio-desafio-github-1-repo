@@ -5,20 +5,20 @@ public class Order {
     //definição dos atributos
     private final String code;
     public final int totalValue;//instanciado
+
+    private String[] items;
     //metodo construtor
     public Order(String code, int totalValue) {
         this.code = code;
         this.totalValue = totalValue;
         }
         //metodo para calcular taxas
-    public double calculateFee() {
-        switch (totalValue) {
-            case 100:
-                return totalValue * 0.99;
-            case 200:
-                return totalValue * 1.99;
-            default:
-                return totalValue;
+
+    public void printItems() {
+        int i = 0;
+        while (i < items.length) {
+            System.out.println(items[i]);
+            i++;
         }
     }
 }
