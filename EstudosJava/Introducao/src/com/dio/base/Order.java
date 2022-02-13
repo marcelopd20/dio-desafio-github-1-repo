@@ -1,17 +1,19 @@
-package com.dio.base;//classe que representa o pedido
+package com.dio.base;//definição de onde a classe se encontra
 
+import java.math.BigDecimal;//import de classe de pacote
+//definicao da classe
 public class Order {
-    //código do pedido
+    //definição dos atributos
     private final String code;
-    //criação do construtor
-    public Order(String code){//instanciado
-        this.code = code; //atributo recebe codigo que passou pelo metodo construtor
-    }
-
-    @Override //metodo sobrescrito
-    public String toString() {//metodo de string responsavel por formatar iompressao do pedido
-        return "Order={" +
-                "code=" + code + "'" +
-                "}";
-    }
+    public final BigDecimal totalValue;//instanciado
+    //metodo construtor
+    public Order(String code, BigDecimal totalValue) {
+        this.code = code;
+        this.totalValue = totalValue;
+        }
+        //metodo para calcular taxas
+    public BigDecimal calculateFee() {
+        return this.totalValue.multiply(new BigDecimal("0.99"));
+        }
 }
+

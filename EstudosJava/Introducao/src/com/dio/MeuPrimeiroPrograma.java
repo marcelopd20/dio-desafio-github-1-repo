@@ -1,7 +1,8 @@
 package com.dio;//define pacote da classe
 
-import com.dio.base.Order; //importa clase Order
 
+import com.dio.base.Order; //importa clase Order
+//modificador de acesso, class, nome com letra maiuscula
 public class MeuPrimeiroPrograma { //criaaclasse
     //criaometodo(publico com array de strings)
     public static void main(String[] args) {
