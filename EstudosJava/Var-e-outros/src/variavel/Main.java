@@ -1,3 +1,5 @@
+package variavel;
+
 public class Main {
     public static void main(String[] args) {
 
@@ -17,7 +19,7 @@ public class Main {
         //j = 15; nao pode, j é final
         int asrn24678md;
         //int asrn2456 78md; espaço não é aceito
-        int asrn2$4678_md = 10;
+        int asrn2$4678_md;
         //int arsn2%4678; uso de caracter nao aceito
 
         asrn24678md = 100;
@@ -42,6 +44,7 @@ public class Main {
         System.out.println(quantidadeProduto);
         System.out.println(NUMERO_TENTATIVAS);
         System.out.println(QUANTIDADE_OPCOES);
+        System.out.println("\u0084");
     }
 
 }
