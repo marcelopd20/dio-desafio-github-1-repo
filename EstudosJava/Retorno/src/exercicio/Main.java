@@ -20,5 +20,13 @@ public class Main {
         System.out.println("Área do Losango: "+ areaLosango);
 
     }
+    public static void xpto() {
 
+        System.out.println("Antes");
+        return;
+
+    }
+    public static long abc() {
+        return 16L;
+    }
 }
