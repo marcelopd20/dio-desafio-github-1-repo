@@ -182,14 +182,8 @@ public class Main {
 
         String mes = "dezembro";
         switch (mes) {
-            case "dezembro":
-            case "julho":
-            case "janeiro":
-                System.out.println("Férias");
-                break;
-            default:
-                System.out.println("Mês não definido");
-                break;
+            case "dezembro", "julho", "janeiro" -> System.out.println("Férias");
+            default -> System.out.println("Mês não definido");
         }
     }
 }
