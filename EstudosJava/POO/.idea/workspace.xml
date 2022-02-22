@@ -2,51 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f08cf989-1551-4e9c-978a-0798b8d70c3b" name="Changes" comment="Estudos Herança, Associação, Interface, Pacotes">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/Carro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/exercicio1/Faxineiro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/exercicio1/Funcionario.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/exercicio1/Gerente.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/exercicio1/RodarAplicacao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/exercicio1/Vendedor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/exercicio2/ClasseFilha1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/exercicio2/ClasseFilha2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/exercicio2/ClasseMae.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/exercicio2/RodarAplicacao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/POO/HerancaAssociacaoInterface/veiculo/Caminhao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/POO/HerancaAssociacaoInterface/veiculo/Carro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/POO/HerancaAssociacaoInterface/veiculo/Moto.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/POO/HerancaAssociacaoInterface/veiculo/Veiculo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/Atributo/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/Atributo/Compra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/Atributo/Cupom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/Atributo/Disciplina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/Atributo/Endereco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/Atributo/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/Interface/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/Interface/OperacaoMatematica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/exercicio1/Faxineiro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/exercicio1/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/exercicio1/Gerente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/exercicio1/RodarAplicacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/exercicio1/Vendedor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/exercicio2/ClasseFilha1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/exercicio2/ClasseFilha2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/exercicio2/ClasseMae.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/exercicio2/RodarAplicacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HerancaAssociacaoInterface/veiculo/Caminhao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HerancaAssociacaoInterface/veiculo/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HerancaAssociacaoInterface/veiculo/Moto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HerancaAssociacaoInterface/veiculo/Veiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pacotes/ExemploPacote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pacotes/outropacote/ExemploPacote1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pacotes/outropacote/ExemploPacote2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pacotes/qualquer/pacote/ExemploPacote3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visibilidade/OutroPacote/Classe1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visibilidade/OutroPacote/Classe2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visibilidade/OutroPacote/Classe3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Visibilidade/Pacote/Classe4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,6 +97,14 @@
       <option name="presentableId" value="Default" />
       <updated>1645194110550</updated>
     </task>
+    <task id="LOCAL-00001" summary="Estudos Herança, Associação, Interface, Pacotes">
+      <created>1645561308903</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645561308903</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
