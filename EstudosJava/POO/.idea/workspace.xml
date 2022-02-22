@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f08cf989-1551-4e9c-978a-0798b8d70c3b" name="Changes" comment="Estudos Herança, Associação, Interface, Pacotes">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/Carro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/exercicio1/Faxineiro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/exercicio1/Funcionario.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/exercicio1/Gerente.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/exercicio1/RodarAplicacao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/exercicio1/Vendedor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/exercicio2/ClasseFilha1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/exercicio2/ClasseFilha2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/exercicio2/ClasseMae.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/POO/ClasseAtributoMetodoObjeto/exercicio2/RodarAplicacao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/POO/HerancaAssociacaoInterface/veiculo/Caminhao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/POO/HerancaAssociacaoInterface/veiculo/Carro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/POO/HerancaAssociacaoInterface/veiculo/Moto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/POO/HerancaAssociacaoInterface/veiculo/Veiculo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/Atributo/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/Atributo/Compra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/Atributo/Cupom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/Atributo/Disciplina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/Atributo/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/Atributo/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/Interface/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/Interface/OperacaoMatematica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/exercicio1/Faxineiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/exercicio1/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/exercicio1/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/exercicio1/RodarAplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/exercicio1/Vendedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/exercicio2/ClasseFilha1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/exercicio2/ClasseFilha2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/exercicio2/ClasseMae.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClasseAtributoMetodoObjeto/exercicio2/RodarAplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HerancaAssociacaoInterface/veiculo/Caminhao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HerancaAssociacaoInterface/veiculo/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HerancaAssociacaoInterface/veiculo/Moto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HerancaAssociacaoInterface/veiculo/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pacotes/ExemploPacote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pacotes/outropacote/ExemploPacote1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pacotes/outropacote/ExemploPacote2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pacotes/qualquer/pacote/ExemploPacote3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="nygdisti" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25HpwNKviPTGStEK0lJs3zUQij0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.RodarAplicacao (1)">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClasseAtributoMetodoObjeto.Main" />
+      <module name="POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClasseAtributoMetodoObjeto.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RodarAplicacao (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClasseAtributoMetodoObjeto.exercicio2.RodarAplicacao" />
+      <module name="POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClasseAtributoMetodoObjeto.exercicio2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RodarAplicacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClasseAtributoMetodoObjeto.exercicio1.RodarAplicacao" />
+      <module name="POO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClasseAtributoMetodoObjeto.exercicio1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RodarAplicacao (1)" />
+        <item itemvalue="Application.RodarAplicacao" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f08cf989-1551-4e9c-978a-0798b8d70c3b" name="Changes" comment="" />
+      <created>1645194110550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645194110550</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Estudos Herança, Associação, Interface, Pacotes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Estudos Herança, Associação, Interface, Pacotes" />
+  </component>
+</project>
