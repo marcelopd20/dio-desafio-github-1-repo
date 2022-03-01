@@ -30,6 +30,27 @@ o StackOverFlow não tenha resolvido para a hospedagem do projeto final.
 ---
 ### Meu Curso:  
 Neste [repositório](https://github.com/marcelopd20/dio-desafio-github-1-repo) encontra-se todo o material que produzi durante o curso, busquei reproduzir os códigos e não há projetos pessoais desenvolvidos, apenas
-cópia transcrita do que foi passado pelos professores.
+cópia transcrita do que foi passado pelos professores.https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/padroesProjetoSpring
 
-[]
+1. [Introdução](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/Introducao)
+2. [Primeiro Programa IntelliJ](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/primeiro-programa-intellij)
+3. [Variáveis, Tipos de dados e Operadores matemáticos](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/Var-e-outros)
+4. [Métodos](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/Metodos)
+4. [Retorno](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/Retorno)
+4. [Lógica condicional, controle de fluxos e blocos de códigos](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/LogCondContFluxBloc)
+4. [Estruturas de repetição e Arrays](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/EstruturaReeti%C3%A7%C3%A3oArray)
+4. [Desafios iniciais](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/DesafiosIniciais)
+4. [POO](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/POO)
+4. [Desafio Banco Digital](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/DesafioBanco)
+4. [Debugging](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/Debug)
+4. [Exceptions](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/Exceptions)
+4. [Collections](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/Collections)
+4. [Desafio](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/Desafios)
+4. [Desafio POO](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/Desafio-POO-dio)
+4. [HTTP/HTTPS](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/HTTPexemplo)
+4. [Spring](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/Spring)
+4. [Inversão de Controle](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/inversaoDeControle)
+4. [Injeção de dependência](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/injecaoDeDepdendencia)
+4. [SpringBoot Web](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/springbootweb)
+4. [Padroes de Projeto(GOF)](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/PadroesDeProjeto)
+4. [Projeto Final Spring](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/padroesProjetoSpring)
