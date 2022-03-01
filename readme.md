@@ -9,12 +9,14 @@ durantes bootcamp oferecido pela Digital Innovation One em parceria com a GFT
 ---
 ### Motivação:   
 
+
 Estudo lógica de programação com Python há alguns últimos meses e me deparei com
 a necessidade de ir além da programação estruturada e, aprender o paradigma de orientação
 ao objeto. Comecei pela leitura de dois livros,
 [Entendendo Algoritmos](https://isbndb.com/book/9788575225639) e 
 [Programação Orientada a Objetos com Python](https://www.amazon.com.br/Programa%C3%A7%C3%A3o-Orientada-Objetos-com-Python-ebook/dp/B083ZYRY9C).  
 Durante este tempo, li artigos sobre orientação ao objeto e percebi que a linguagem Java seria interessante. Logo, optei por realizar este bootcamp.  
+
 ---
 ### Opinião pessoal sobre o curso:  
 Gostei muito do bootcamp, por ser um curso aberto(sem processo seletivo) e gratuito é lógico que houve material desatualizado e reciclagem de aulas,
