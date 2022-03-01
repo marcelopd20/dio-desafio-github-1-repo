@@ -30,7 +30,7 @@ o StackOverFlow não tenha resolvido para a hospedagem do projeto final.
 ---
 ### Meu Curso:  
 Neste [repositório](https://github.com/marcelopd20/dio-desafio-github-1-repo) encontra-se todo o material que produzi durante o curso, busquei reproduzir os códigos e não há projetos pessoais desenvolvidos, apenas
-cópia transcrita do que foi passado pelos professores.https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/padroesProjetoSpring
+cópia transcrita do que foi passado pelos professores.
 
 1. [Introdução](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/Introducao)
 2. [Primeiro Programa IntelliJ](https://github.com/marcelopd20/dio-desafio-github-1-repo/tree/main/EstudosJava/primeiro-programa-intellij)
