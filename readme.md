@@ -7,7 +7,7 @@
 >Documentei este readme para organização dos arquivos e documentos gerados
 durantes bootcamp oferecido pela Digital Innovation One em parceria com a GFT
 ---
-### Motivação:  
+### Motivação:   
 
 Estudo lógica de programação com Python há alguns últimos meses e me deparei com
 a necessidade de ir além da programação estruturada e, aprender o paradigma de orientação
